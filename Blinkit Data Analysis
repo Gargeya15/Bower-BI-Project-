@@ -1,0 +1,37 @@
+# 🚀 Blinkit Power BI Dashboard
+
+## 📌 Problem Statement
+
+Blinkit, a rapid grocery delivery service, generates a vast amount of data related to customer orders, delivery times, product sales, and operational efficiency. However, gaining insights from raw data can be challenging. 
+
+The goal of this Power BI dashboard is to visualize and analyze key metrics such as:
+- **Order Trends:** Identifying peak order times and frequency.
+- **Delivery Performance:** Average delivery times and efficiency.
+- **Sales Analysis:** Top-selling products and revenue trends.
+- **Customer Insights:** Repeat orders, customer demographics, and preferences.
+- **Operational Efficiency:** Warehouse stock levels and fulfillment rates.
+
+By providing a clear and interactive dashboard, decision-makers can optimize business strategies and enhance user satisfaction.
+
+---
+
+## 📊 Dashboard Features
+
+🔹 **Dynamic Visualizations** – Interactive charts and graphs for trend analysis.  
+🔹 **Filters & Slicers** – Users can filter by date, region, product category, etc.  
+🔹 **KPIs & Metrics** – Real-time tracking of key performance indicators.  
+🔹 **Drill-through Reports** – In-depth analysis of sales, deliveries, and customer behavior.  
+🔹 **Power BI Integration** – Seamlessly connects with SQL databases or CSV files.  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Power BI** – Data visualization and report creation.  
+- **SQL** – Data extraction and transformation.  
+- **Excel / CSV** – Source data for analysis.  
+- **Python (Optional)** – Data preprocessing using Pandas.  
+
+---
+
+
